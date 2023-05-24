@@ -1,0 +1,52 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_0_4)">
+<rect width="1920" height="1080" fill="#383E60"/>
+<g clip-path="url(#clip1_0_4)">
+<path d="M375 -159H-165V291H375V-159Z" fill="#383E60"/>
+<path d="M-30 66L-75 141H15L-30 66Z" fill="#666666" fill-opacity="0.1"/>
+<path d="M-30 66L15 -9H-75L-30 66Z" fill="#AAAAAA" fill-opacity="0.1"/>
+<path d="M60 66L15 141H105L60 66Z" fill="#DDDDDD" fill-opacity="0.1"/>
+<path d="M60 66L105 -9H15L60 66Z" fill="#999999" fill-opacity="0.1"/>
+<path d="M150 66L105 141H195L150 66Z" fill="#999999" fill-opacity="0.1"/>
+<path d="M150 66L195 -9H105L150 66Z" fill="white" fill-opacity="0.1"/>
+<path d="M240 66L195 141H285L240 66Z" fill="black" fill-opacity="0.1"/>
+<path d="M240 66L285 -9H195L240 66Z" fill="#DDDDDD" fill-opacity="0.1"/>
+<path d="M330 66L285 141H375L330 66Z" fill="#AAAAAA" fill-opacity="0.1"/>
+<path d="M330 66L375 -9H285L330 66Z" fill="#444444" fill-opacity="0.1"/>
+<path d="M-30 216L-75 291H15L-30 216Z" fill="black" fill-opacity="0.1"/>
+<path d="M-30 216L15 141H-75L-30 216Z" fill="#DDDDDD" fill-opacity="0.1"/>
+<path d="M60 216L105 141H15L60 216Z" fill="black" fill-opacity="0.1"/>
+<path d="M150 216L105 291H195L150 216Z" fill="black" fill-opacity="0.1"/>
+<path d="M150 216L195 141H105L150 216Z" fill="#444444" fill-opacity="0.1"/>
+<path d="M240 216L195 291H285L240 216Z" fill="#AAAAAA" fill-opacity="0.1"/>
+<path d="M240 216L285 141H195L240 216Z" fill="#666666" fill-opacity="0.1"/>
+<path d="M330 216L285 291H375L330 216Z" fill="#999999" fill-opacity="0.1"/>
+<path d="M15 -9L-30 66H60L15 -9Z" fill="#222222" fill-opacity="0.1"/>
+<path d="M105 -9L60 66H150L105 -9Z" fill="#444444" fill-opacity="0.1"/>
+<path d="M195 -9L150 66H240L195 -9Z" fill="#AAAAAA" fill-opacity="0.1"/>
+<path d="M285 -9L240 66H330L285 -9Z" fill="white" fill-opacity="0.1"/>
+<path d="M15 141L-30 216H60L15 141Z" fill="#444444" fill-opacity="0.1"/>
+<path d="M15 141L60 66H-30L15 141Z" fill="#999999" fill-opacity="0.1"/>
+<path d="M105 141L150 66H60L105 141Z" fill="#666666" fill-opacity="0.1"/>
+<path d="M195 141L150 216H240L195 141Z" fill="#222222" fill-opacity="0.1"/>
+<path d="M285 141L240 216H330L285 141Z" fill="white" fill-opacity="0.1"/>
+<path d="M285 141L330 66H240L285 141Z" fill="#222222" fill-opacity="0.1"/>
+<path d="M15 291L60 216H-30L15 291Z" fill="white" fill-opacity="0.1"/>
+<path d="M105 291L150 216H60L105 291Z" fill="#AAAAAA" fill-opacity="0.1"/>
+<path d="M195 291L240 216H150L195 291Z" fill="white" fill-opacity="0.1"/>
+<path d="M285 291L330 216H240L285 291Z" fill="#222222" fill-opacity="0.1"/>
+<path d="M375 -9L330 66H420L375 -9Z" fill="#222222" fill-opacity="0.1"/>
+<path d="M375 141L330 216H420L375 141Z" fill="black" fill-opacity="0.1"/>
+<path d="M375 141L420 66H330L375 141Z" fill="#666666" fill-opacity="0.1"/>
+<path d="M375 291L420 216H330L375 291Z" fill="#DDDDDD" fill-opacity="0.1"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+<clipPath id="clip1_0_4">
+<rect width="540" height="450" fill="white" transform="translate(-165 -159)"/>
+</clipPath>
+</defs>
+</svg>
